@@ -1,0 +1,12 @@
+{
+  "name": "sample",
+  "version": "0.0.0",
+  "description": "sample",
+  "main": "server.js",
+  "author": {
+    "name": "programmer"
+  },
+  "dependencies": {
+    "edge-js": "^12.3.1"
+  }
+}
